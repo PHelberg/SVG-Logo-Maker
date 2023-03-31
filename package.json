@@ -1,0 +1,26 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "svgLogoMaker",
+  "main": "index.js",
+  "scripts": {
+    "test": "logo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PHelberg/SVG-Logo-Maker.git"
+  },
+  "keywords": [
+    "logoMaker"
+  ],
+  "author": "NA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PHelberg/SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/PHelberg/SVG-Logo-Maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0"
+  }
+}
